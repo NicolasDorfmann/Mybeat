@@ -30,4 +30,5 @@ Donc c'est normal si vous voyez que le repo a été créé dimanche soir car nou
 * Problème de groupe expliqué plus haut, un membre a arrêté sans nous avertir, et l'autre membre ne s'est pas manifesté durant la totale durée du projet. Donc nous estimons que ce dernier ne fait pas partie de notre groupe étant donné qu'il n'a jamais fait le travail attendu quand on lui donner des taches à réaliser 
 * Nous n'avons pas réussi à mettre le bouton réinitialisé 
 * Notre projet ne peux pas se jouer sur un autre device que le desktop
+* Marche seulement sur Chrome
 
